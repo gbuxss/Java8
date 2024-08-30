@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" filepath="$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparatorLambda/ComparatorLambda.iml" filepath="$PROJECT_DIR$/ComparatorLambda/ComparatorLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java8.iml" filepath="$PROJECT_DIR$/.idea/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+    </modules>
+  </component>
+</project>
